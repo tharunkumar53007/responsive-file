@@ -11,6 +11,7 @@ header{
     background-color: rgb(202, 202, 202);
     padding: 15px;
     text-align: center;
+    color: yellow;
 }
 
 footer{
@@ -18,6 +19,7 @@ footer{
     padding: 15px;
     text-align: center;
     clear: both;
+    color: red;
 }
 
 .nav{
